@@ -13,14 +13,14 @@ exports.run = {
 ◦  ${isPrefix}limit 
 ◦  ${isPrefix}me 
 
-❑  *G R O U P*
+❑  *𝐆 𝐑 𝐎 𝐔 𝐏*
 
 ◦  ${isPrefix}afk *reason (optional)*
 ◦  ${isPrefix}ava *mention or reply*
 ◦  ${isPrefix}delete *reply chat*
 ◦  ${isPrefix}q *reply chat*
 
-❑  *C O N V E R T E R*
+❑  *𝐂 𝐎 𝐍 𝐕 𝐄 𝐑 𝐓 𝐄 𝐑*
 
 ◦  ${isPrefix}emojimix *emoji + emoji*
 ◦  ${isPrefix}sticker *reply media*
@@ -30,7 +30,7 @@ exports.run = {
 ◦  ${isPrefix}tomp3 *reply media*
 ◦  ${isPrefix}tovn *reply media*
 
-❑  *D O W N L O A D E R*
+❑  *𝐃 𝐎 𝐖 𝐍 𝐋 𝐎 𝐀 𝐃 𝐄 𝐑*
 
 ◦  ${isPrefix}apk *query*
 ◦  ${isPrefix}fb *link*
@@ -49,7 +49,7 @@ exports.run = {
 ◦  ${isPrefix}ytmp3 *link*
 ◦  ${isPrefix}ytmp4 *link*
 
-❑  *U T I L I T I E S*
+❑  *𝐔 𝐓 𝐈 𝐋 𝐈 𝐓 𝐈 𝐄 𝐒*
 
 ◦  ${isPrefix}brainly *question*
 ◦  ${isPrefix}halah *text or reply chat*
@@ -62,7 +62,7 @@ exports.run = {
 ◦  ${isPrefix}server 
 ◦  ${isPrefix}wallpaper *query*
 
-❑  *T E X T - M A K E R*
+❑  *𝐓 𝐄 𝐗 𝐓 - 𝐌 𝐀 𝐊 𝐄 𝐑*
 
 ◦  ${isPrefix}blackpink *text*
 ◦  ${isPrefix}blood *text*
@@ -76,7 +76,7 @@ exports.run = {
 ◦  ${isPrefix}papercut *text*
 ◦  ${isPrefix}slice *text*
 
-❑  *I M A G E - E F F E C T*
+❑  *𝐈 𝐌 𝐀 𝐆 𝐄 - 𝐄 𝐅 𝐅 𝐄 𝐂 𝐓*
 
 ◦  ${isPrefix}alien *reply foto*
 ◦  ${isPrefix}brick *reply foto*
@@ -93,7 +93,7 @@ exports.run = {
 ◦  ${isPrefix}splash *reply foto*
 ◦  ${isPrefix}staco *reply foto*
 
-❑  *A D M I N - T O O L S*
+❑  *𝐀 𝐃 𝐌 𝐈 𝐍 - 𝐓 𝐎 𝐎 𝐋 𝐒
 
 ◦  ${isPrefix}antidelete *on / off*
 ◦  ${isPrefix}antilink *on / off*
@@ -114,7 +114,7 @@ exports.run = {
 ◦  ${isPrefix}setwelcome *text*
 ◦  ${isPrefix}welcome *on / off*
 
-❑  *O W N E R*
+❑  *𝐎 𝐖 𝐍 𝐄 𝐑*
 
 ◦  ${isPrefix}-cmdstic *text / command*
 ◦  ${isPrefix}-mimic *mention or reply*
@@ -158,7 +158,7 @@ exports.run = {
 ◦  ${isPrefix}unblock *mention or reply*
 ◦  ${isPrefix}update 
 
-❑  *S P E C I A L*
+❑  *𝐒 𝐏 𝐄 𝐂 𝐈 𝐀 𝐋*
 
 ◦  ${isPrefix}botstat 
 ◦  ${isPrefix}checkapi 
@@ -171,7 +171,7 @@ exports.run = {
 ◦  ${isPrefix}runtime
 ❑ *T Q - T O*
 ◦ Swift
-◦ FARUQOFC`
+◦ 𝐙𝐲𝖓𝖓`
       client.sendMessageModify(m.chat, captions, m, {
                title: 'Kanna bot',
                largeThumb: true,
