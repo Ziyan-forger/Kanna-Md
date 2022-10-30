@@ -1,7 +1,7 @@
 // Owner number
-global.owner = '6285807264974'
+global.owner = '6285714056133'
 // Owner name
-global.owner_name = 'Hanya Creator'
+global.owner_name = '𝐙𝐲𝖓𝖓'
 // Maximum upload file size limit (Default : 50 MB)
 global.max_upload = 50
 // Delay for spamming protection (Default : 3 seconds)
